@@ -2,7 +2,7 @@ require_relative 'produto'
 require_relative 'loja'
 
 produto = Produto.new
-    produto.nome = 'Foma para bolo redonda'
+    produto.nome = 'Forma para bolo redonda'
     produto.preco = 40.00
 
 produto1 = Produto.new

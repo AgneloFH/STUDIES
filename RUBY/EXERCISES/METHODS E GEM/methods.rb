@@ -10,7 +10,7 @@
 # 2. Depois do nome da função
 # 3. Defina o conjunto de expressões
 # 4. Finalize esse bloco com a palavra end
-# 5. Para execultar o métado basta escrever seu nome
+# 5. Para execultar o métodos basta escrever seu nome
 
 def salutation
     puts 'Hello! Agnelo FH'

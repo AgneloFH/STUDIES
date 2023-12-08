@@ -1,6 +1,8 @@
 #Vamos manipular arrays
 #criar uma lista de livros
 
+#no terminal execute o comando irb
+
 #vamos adicionar um item nesse array nome.push('o que quremos colocar')
 
 #vamos adicionar vários items ao nosso array ao mesmo tempo
